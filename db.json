@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Exciting Adventure",
+      "description": "Embark on a thrilling journey filled with twists and turns. Explore unknown realms and face challenges that will test your courage and wit. Get ready for the adventure of a lifetime!",
+      "likeCount": 1202
+    },
+
+    {
+      "id": 2,
+      "title": "Gourmet Delight",
+      "description": "Indulge your taste buds in a culinary masterpiece. Experience a symphony of flavors crafted by expert chefs. Each bite is a journey through a world of exquisite taste and gastronomic bliss.",
+      "likeCount": 850
+    },
+
+    {
+      "id": 3,
+      "title": "Serene Escape",
+      "description": "Find tranquility in a peaceful retreat. Surrounded by nature's beauty, unwind and recharge. Enjoy the soothing sounds of gentle waves, the rustling of leaves, and the melody of birdsong.",
+      "likeCount": 200
+    },
+
+    {
+      "id": 4,
+      "title": "Fitness Fusion",
+      "description": "Ignite your passion for fitness with a unique blend of workouts. From high-intensity sessions to mindful exercises, sculpt your body and elevate your well-being. Embrace a healthier, more vibrant you.",
+      "likeCount": 150
+    },
+
+    {
+      "id": 5,
+      "title": "Tech Marvels",
+      "description": "Dive into the latest technological wonders. Witness innovations that redefine the future. From cutting-edge gadgets to revolutionary breakthroughs, stay informed and be part of the digital evolution.",
+      "likeCount": 300
+    },
+
+    {
+      "id": 6,
+      "title": "Artistic Expression",
+      "description": "Immerse yourself in the world of creativity. Discover masterpieces that evoke emotions and challenge perspectives. Whether through paint, sculpture, or multimedia, explore the limitless realm of artistic expression.",
+      "likeCount": 120
+    }
+  ]
+}
